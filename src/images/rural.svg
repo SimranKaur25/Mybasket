@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="50" viewBox="0 0 112 50">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g fill="#FFE7CC">
+                    <g>
+                        <g transform="translate(-145 -636) translate(145 636)">
+                            <rect width="112" height="50" rx="8"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <text fill="#FF0032" font-family="Roboto-Regular, Roboto" font-size="12" transform="translate(-145 -636) translate(145 636) translate(23 10)">
+                            <tspan x="39" y="19">Rural</tspan>
+                        </text>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0 0H30V30H0z" transform="translate(-145 -636) translate(145 636) translate(23 10)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g stroke="#FF0032" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.78">
+                            <path d="M13.76 5.397C9.296 2.512 4.673 4.583.402.061c-.994-1.055-.417 11.833 4.93 16.716 3.908 3.568 9.943 3.17 11.977-.297 2.035-3.467.919-8.198-3.547-11.083zM6.28 9.496c4.32 4.07 8.793 6.481 14.671 7.386" transform="translate(-145 -636) translate(145 636) translate(23 10) translate(5 5)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

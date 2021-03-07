@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 53 53">
+    <defs>
+        <linearGradient id="4hlkshv0ia" x1="50%" x2="50%" y1="-29.716%" y2="100%">
+            <stop offset="0%" stop-color="#F6C411"/>
+            <stop offset="100%" stop-color="#FC920D"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="26.5" cy="26.5" r="22.5" fill="url(#4hlkshv0ia)"/>
+        <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold">
+            <tspan x="13.173" y="32">CSK</tspan>
+        </text>
+        <circle cx="26.5" cy="26.5" r="25.75" stroke="#FFF" stroke-width="1.5" opacity=".13"/>
+    </g>
+</svg>

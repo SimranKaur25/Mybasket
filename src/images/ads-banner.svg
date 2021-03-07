@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="72" viewBox="0 0 320 72">
+    <defs>
+        <path id="4tf9ygc3qc" d="M0.1 0L43.99 0 43.99 39.012 0.1 39.012z"/>
+        <path id="cg5kjzfbre" d="M0 1.411L48.763 1.411 48.763 4.662 0 4.662z"/>
+        <rect id="uu8f35k42a" width="320" height="72" x="0" y="0" rx="4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-20 -437) translate(20 437)">
+                        <mask id="ovhnm28q8b" fill="#fff">
+                            <use xlink:href="#uu8f35k42a"/>
+                        </mask>
+                        <use fill="#2F3043" xlink:href="#uu8f35k42a"/>
+                        <g mask="url(#ovhnm28q8b)">
+                            <g>
+                                <g transform="translate(249 11) translate(2.337 .101)">
+                                    <mask id="5b2n8ntezd" fill="#fff">
+                                        <use xlink:href="#4tf9ygc3qc"/>
+                                    </mask>
+                                    <path fill="#FF0032" d="M8.026 38.825c.146.12.33.187.52.187h26.998c.19 0 .374-.066.52-.187 7.113-5.907 9.76-15.638 6.62-24.334C39.544 5.795 31.29.001 22.045.001 12.8 0 4.546 5.794 1.406 14.49c-3.14 8.696-.493 18.427 6.62 24.334" mask="url(#5b2n8ntezd)"/>
+                                </g>
+                                <path fill="#FFF" d="M30.07 12.293c.875.04 1.725-.289 2.344-.907.619-.619.948-1.47.908-2.344 0-.448.363-.812.812-.812.45 0 .813.364.813.812-.04.874.289 1.725.908 2.344.618.618 1.47.948 2.343.907.449 0 .813.364.813.813 0 .449-.364.813-.813.813-.874-.04-1.725.288-2.343.907-.62.619-.948 1.47-.908 2.344 0 .448-.364.812-.813.812-.449 0-.812-.364-.812-.812.04-.874-.29-1.725-.908-2.344-.619-.619-1.47-.948-2.343-.907-.45 0-.813-.364-.813-.813 0-.449.364-.813.813-.813" transform="translate(249 11)"/>
+                                <path fill="#FFC500" d="M8.94 40.738c-1.795 0-3.251 2.527-3.251 5.644h37.385c0-3.117-1.455-5.644-3.25-5.644H8.94z" transform="translate(249 11)"/>
+                                <g transform="translate(249 11) translate(0 44.204)">
+                                    <path fill="#FFC500" d="M46.325 0H2.438C1.092 0 0 1.895 0 4.233c0 .78.364 1.411.813 1.411H47.95c.448 0 .812-.632.812-1.411C48.763 1.895 47.672 0 46.325 0"/>
+                                </g>
+                                <path fill="#FFF" d="M27.632 21.233L29.258 21.233 29.258 19.608 30.883 19.608 30.883 21.233 32.509 21.233 32.509 22.859 30.883 22.859 30.883 24.484 29.258 24.484 29.258 22.859 27.632 22.859zM24.382 4.979v1.625c-7.043-.001-13.194 4.763-14.954 11.581l-1.574-.406C9.8 10.243 16.598 4.978 24.382 4.98M7.506 19.487l1.607.243c-.115.767-.173 1.54-.173 2.316H7.314c0-.857.065-1.712.192-2.56" transform="translate(249 11)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g fill="#FFF">
+                        <text font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" transform="translate(-20 -437) translate(20 437) translate(20 14)">
+                            <tspan x="0" y="15">Astrology</tspan>
+                        </text>
+                        <text font-family="Roboto-Regular, Roboto" font-size="14" transform="translate(-20 -437) translate(20 437) translate(20 14)">
+                            <tspan x="0" y="37">Know your future with astrologer</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

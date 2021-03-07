@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 50 30">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#FFF">
+            <g transform="translate(-294 -322) translate(294 322)">
+                <rect width="50" height="30" opacity=".25" rx="15"/>
+                <circle cx="15" cy="15" r="13"/>
+            </g>
+        </g>
+    </g>
+</svg>

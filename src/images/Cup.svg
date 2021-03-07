@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20">
+    <defs>
+        <linearGradient id="edam9qgfaa" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FDDF89"/>
+            <stop offset="100%" stop-color="#FBBC51"/>
+        </linearGradient>
+        <linearGradient id="dizaw1omab" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FDDF89"/>
+            <stop offset="100%" stop-color="#FBBC51"/>
+        </linearGradient>
+        <linearGradient id="4v192y3o5c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FDDF89"/>
+            <stop offset="100%" stop-color="#FBBC51"/>
+        </linearGradient>
+        <linearGradient id="ssq3bok4be" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FDD874"/>
+            <stop offset="100%" stop-color="#FAAF40"/>
+        </linearGradient>
+        <linearGradient id="hgie5sstad" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FDDF89"/>
+            <stop offset="100%" stop-color="#FBBC51"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="url(#edam9qgfaa)" stroke-width="1.5" d="M16.2 8.1h0V1.736c1.917 0 3.471 1.424 3.471 3.182 0 1.757-1.554 3.182-3.471 3.182z" transform="translate(1 1)"/>
+        <path stroke="url(#edam9qgfaa)" stroke-width="1.5" d="M0 8.1h0V1.736c1.917 0 3.471 1.424 3.471 3.182C3.471 6.675 1.917 8.1 0 8.1z" transform="translate(1 1) rotate(180 1.736 4.918)"/>
+        <path stroke="url(#dizaw1omab)" stroke-width="1.5" d="M9.831 13.124L9.831 17.527" transform="translate(1 1)"/>
+        <path stroke="url(#4v192y3o5c)" stroke-linecap="round" stroke-width="1.5" d="M5.523 17.527L14.248 17.527" transform="translate(1 1)"/>
+        <path fill="url(#ssq3bok4be)" stroke="url(#hgie5sstad)" stroke-linejoin="round" stroke-width="1.8" d="M9.911 13.124h0c-3.624 0-6.561-2.938-6.561-6.562V0h13.123v6.562c0 3.624-2.938 6.562-6.562 6.562z" transform="translate(1 1)"/>
+    </g>
+</svg>

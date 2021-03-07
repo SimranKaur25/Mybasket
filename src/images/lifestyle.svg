@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="50" viewBox="0 0 112 50">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-22 -636) translate(22 636)">
+                        <rect width="112" height="50" fill="#FFE7CC" rx="8"/>
+                        <text fill="#FF0032" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="49" y="29">Lifestyle</tspan>
+                        </text>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0 0H30V30H0z" transform="translate(10 10)"/>
+                                    </g>
+                                </g>
+                                <g>
+                                    <path stroke="#FF0032" stroke-width="2.08" d="M18.953 12.04c-2.34 0-4.237 1.898-4.237 4.237 0 2.34 1.897 4.237 4.237 4.237s4.237-1.897 4.237-4.237c-.008-2.336-1.9-4.229-4.237-4.236zM4.237 12.04C1.897 12.04 0 13.939 0 16.278c0 2.34 1.897 4.237 4.237 4.237s4.236-1.897 4.236-4.237c-.007-2.336-1.9-4.229-4.236-4.236z" transform="translate(10 10) translate(3 5)"/>
+                                    <path stroke="#FF0032" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.08" d="M11.595 16.054L11.595 11.26 8.027 8.919 12.487 4.014 14.716 8.027 17.838 8.027" transform="translate(10 10) translate(3 5)"/>
+                                    <path fill="#FF0032" d="M15.162 3.568c.982.003 1.78-.79 1.784-1.772v-.018C16.956.807 16.178.011 15.207 0h-.033c-.986-.003-1.787.793-1.79 1.778-.003.985.793 1.787 1.778 1.79" transform="translate(10 10) translate(3 5)"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
